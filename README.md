@@ -84,7 +84,6 @@ The Streamlit UI provides:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## Dependencies 
 streamlit
 pandas
 numpy
